@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SyedFazal27
-- 👀 I’m interested in ...Web dev, Game dev
-- 🌱 I’m currently learning ...Python 
+- 👀 I’m interested in ...Web dev
+- 🌱 I’m currently learning ...Java 
 - 📫 How to reach me ...Via email fsyed9832@gmail.com
 
 <!---
